@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>配置文件</comment>
+	<!-- 夜神多开配置文件 -->
+	<entry key="xmlFilePath">C:\Users\zongx\AppData\Local\MultiPlayerManager\multiplayer.xml</entry>
+	<!--夜神安装目录  -->
+	<entry key="binPath">D:\soft\yeshen\Nox\bin\</entry>
+	<!-- 模拟器分辨率 -->
+	<entry key="resolutionValue">480x800</entry>
+	<!-- 启动的app名称 -->
+	<entry key="startAppName">cn.weli.story/cn.etouch.ecalendar.LoadingActivity</entry>
+	<!-- 启动模拟器后，等待app启动的时间，检查时间间隔，单位秒 -->
+	<entry key="checkSimulatorIsStartNum">20</entry>
+	<!--每批次启动app的数量  -->
+	<entry key="batchStartSize">3</entry>
+	<!--休眠时间，没有用  -->
+	<entry key="sleepTime">30000</entry>
+</properties>
